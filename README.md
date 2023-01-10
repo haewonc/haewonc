@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm rising junior at School of Computing, KAIST.
+
+I previously worked in a AI-driven protein design project at Data Science Lab, KAIST as a research intern.
+
+I'm currently working on self-supervised learning at ALIN Lab, Graduate school of AI, KAIST.
